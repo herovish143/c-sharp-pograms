@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Get_a_number_and_display_the_sum_of_the_digits</RootNamespace>
+  </PropertyGroup>
+
+</Project>

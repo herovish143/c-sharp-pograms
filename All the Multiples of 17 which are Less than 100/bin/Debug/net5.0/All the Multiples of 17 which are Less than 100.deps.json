@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "All the Multiples of 17 which are Less than 100/1.0.0": {
+        "runtime": {
+          "All the Multiples of 17 which are Less than 100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "All the Multiples of 17 which are Less than 100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

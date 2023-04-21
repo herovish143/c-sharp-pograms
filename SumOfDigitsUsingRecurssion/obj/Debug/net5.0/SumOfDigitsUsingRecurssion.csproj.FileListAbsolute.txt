@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\bin\Debug\net5.0\SumOfDigitsUsingRecurssion.exe
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\bin\Debug\net5.0\SumOfDigitsUsingRecurssion.deps.json
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\bin\Debug\net5.0\SumOfDigitsUsingRecurssion.runtimeconfig.json
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\bin\Debug\net5.0\SumOfDigitsUsingRecurssion.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\bin\Debug\net5.0\SumOfDigitsUsingRecurssion.dll
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\bin\Debug\net5.0\SumOfDigitsUsingRecurssion.pdb
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.dll
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\refint\SumOfDigitsUsingRecurssion.dll
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.pdb
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\SumOfDigitsUsingRecurssion.genruntimeconfig.cache
+C:\Users\DELL\source\repos\SumOfDigitsUsingRecurssion\obj\Debug\net5.0\ref\SumOfDigitsUsingRecurssion.dll

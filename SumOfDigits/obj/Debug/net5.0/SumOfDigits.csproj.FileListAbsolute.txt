@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\SumOfDigits\bin\Debug\net5.0\SumOfDigits.exe
+C:\Users\DELL\source\repos\SumOfDigits\bin\Debug\net5.0\SumOfDigits.deps.json
+C:\Users\DELL\source\repos\SumOfDigits\bin\Debug\net5.0\SumOfDigits.runtimeconfig.json
+C:\Users\DELL\source\repos\SumOfDigits\bin\Debug\net5.0\SumOfDigits.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SumOfDigits\bin\Debug\net5.0\SumOfDigits.dll
+C:\Users\DELL\source\repos\SumOfDigits\bin\Debug\net5.0\SumOfDigits.pdb
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.dll
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\refint\SumOfDigits.dll
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.pdb
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\SumOfDigits.genruntimeconfig.cache
+C:\Users\DELL\source\repos\SumOfDigits\obj\Debug\net5.0\ref\SumOfDigits.dll

@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\bin\Debug\net5.0\All the Multiples of 17 which are Less than 100.exe
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\bin\Debug\net5.0\All the Multiples of 17 which are Less than 100.deps.json
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\bin\Debug\net5.0\All the Multiples of 17 which are Less than 100.runtimeconfig.json
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\bin\Debug\net5.0\All the Multiples of 17 which are Less than 100.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\bin\Debug\net5.0\All the Multiples of 17 which are Less than 100.dll
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\bin\Debug\net5.0\All the Multiples of 17 which are Less than 100.pdb
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.AssemblyInfo.cs
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.dll
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\refint\All the Multiples of 17 which are Less than 100.dll
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.pdb
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\All the Multiples of 17 which are Less than 100.genruntimeconfig.cache
+C:\Users\DELL\source\repos\All the Multiples of 17 which are Less than 100\obj\Debug\net5.0\ref\All the Multiples of 17 which are Less than 100.dll

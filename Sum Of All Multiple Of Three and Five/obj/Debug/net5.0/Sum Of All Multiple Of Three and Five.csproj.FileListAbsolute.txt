@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\bin\Debug\net5.0\Sum Of All Multiple Of Three and Five.exe
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\bin\Debug\net5.0\Sum Of All Multiple Of Three and Five.deps.json
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\bin\Debug\net5.0\Sum Of All Multiple Of Three and Five.runtimeconfig.json
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\bin\Debug\net5.0\Sum Of All Multiple Of Three and Five.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\bin\Debug\net5.0\Sum Of All Multiple Of Three and Five.dll
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\bin\Debug\net5.0\Sum Of All Multiple Of Three and Five.pdb
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.dll
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\refint\Sum Of All Multiple Of Three and Five.dll
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.pdb
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\Sum Of All Multiple Of Three and Five.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\obj\Debug\net5.0\ref\Sum Of All Multiple Of Three and Five.dll

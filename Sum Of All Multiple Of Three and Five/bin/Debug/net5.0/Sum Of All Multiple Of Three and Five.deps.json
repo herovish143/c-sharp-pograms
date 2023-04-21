@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sum Of All Multiple Of Three and Five/1.0.0": {
+        "runtime": {
+          "Sum Of All Multiple Of Three and Five.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum Of All Multiple Of Three and Five/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

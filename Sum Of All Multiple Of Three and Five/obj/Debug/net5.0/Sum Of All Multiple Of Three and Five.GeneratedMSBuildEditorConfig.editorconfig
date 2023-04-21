@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sum_Of_All_Multiple_Of_Three_and_Five
+build_property.ProjectDir = C:\Users\DELL\source\repos\Sum Of All Multiple Of Three and Five\

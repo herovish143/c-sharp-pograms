@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Largest of Two Numbers/1.0.0": {
+        "runtime": {
+          "Largest of Two Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Largest of Two Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

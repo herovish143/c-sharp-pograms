@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Largest of Two Numbers\bin\Debug\net5.0\Largest of Two Numbers.exe
+C:\Users\DELL\source\repos\Largest of Two Numbers\bin\Debug\net5.0\Largest of Two Numbers.deps.json
+C:\Users\DELL\source\repos\Largest of Two Numbers\bin\Debug\net5.0\Largest of Two Numbers.runtimeconfig.json
+C:\Users\DELL\source\repos\Largest of Two Numbers\bin\Debug\net5.0\Largest of Two Numbers.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Largest of Two Numbers\bin\Debug\net5.0\Largest of Two Numbers.dll
+C:\Users\DELL\source\repos\Largest of Two Numbers\bin\Debug\net5.0\Largest of Two Numbers.pdb
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.dll
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\refint\Largest of Two Numbers.dll
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.pdb
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\Largest of Two Numbers.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Largest of Two Numbers\obj\Debug\net5.0\ref\Largest of Two Numbers.dll

@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\bin\Debug\net5.0\CheckNumberIsDivisableBy2.exe
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\bin\Debug\net5.0\CheckNumberIsDivisableBy2.deps.json
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\bin\Debug\net5.0\CheckNumberIsDivisableBy2.runtimeconfig.json
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\bin\Debug\net5.0\CheckNumberIsDivisableBy2.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\bin\Debug\net5.0\CheckNumberIsDivisableBy2.dll
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\bin\Debug\net5.0\CheckNumberIsDivisableBy2.pdb
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.dll
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\refint\CheckNumberIsDivisableBy2.dll
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.pdb
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\CheckNumberIsDivisableBy2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CheckNumberIsDivisableBy2\obj\Debug\net5.0\ref\CheckNumberIsDivisableBy2.dll

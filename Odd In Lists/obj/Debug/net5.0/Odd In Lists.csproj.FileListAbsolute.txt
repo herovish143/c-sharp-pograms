@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Odd In Lists\bin\Debug\net5.0\Odd In Lists.exe
+C:\Users\DELL\source\repos\Odd In Lists\bin\Debug\net5.0\Odd In Lists.deps.json
+C:\Users\DELL\source\repos\Odd In Lists\bin\Debug\net5.0\Odd In Lists.runtimeconfig.json
+C:\Users\DELL\source\repos\Odd In Lists\bin\Debug\net5.0\Odd In Lists.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Odd In Lists\bin\Debug\net5.0\Odd In Lists.dll
+C:\Users\DELL\source\repos\Odd In Lists\bin\Debug\net5.0\Odd In Lists.pdb
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.dll
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\refint\Odd In Lists.dll
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.pdb
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\Odd In Lists.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Odd In Lists\obj\Debug\net5.0\ref\Odd In Lists.dll

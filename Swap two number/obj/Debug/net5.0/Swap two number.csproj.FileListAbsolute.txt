@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Swap two number\bin\Debug\net5.0\Swap two number.exe
+C:\Users\DELL\source\repos\Swap two number\bin\Debug\net5.0\Swap two number.deps.json
+C:\Users\DELL\source\repos\Swap two number\bin\Debug\net5.0\Swap two number.runtimeconfig.json
+C:\Users\DELL\source\repos\Swap two number\bin\Debug\net5.0\Swap two number.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Swap two number\bin\Debug\net5.0\Swap two number.dll
+C:\Users\DELL\source\repos\Swap two number\bin\Debug\net5.0\Swap two number.pdb
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.dll
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\refint\Swap two number.dll
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.pdb
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\Swap two number.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Swap two number\obj\Debug\net5.0\ref\Swap two number.dll
